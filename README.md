@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geoffgeorgein
-- 👀 I’m interested in Machine Learning,Algorithms and Competetive Programming
+- 👀 I’m interested in Machine Learning, Algorithms and Competetive Programming
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on any challenging task
 - 📫 How to reach me ...
 linkedin:https://www.linkedin.com/in/geoffgeorge45/
 
