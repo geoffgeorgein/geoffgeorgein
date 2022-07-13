@@ -5,6 +5,12 @@
 - 📫 How to reach me ...
 linkedin:https://www.linkedin.com/in/geoffgeorge45/
 
+Skills and Experience:
+:
+📌🐍 Python 📌📟 C++ 📌📓 Jupyter Notebook 📌🥾 Bootstrap 📌🕸️ HTML 📌🎨 CSS 📌 📌📜 JavaScript
+
+
+
 <!---
 geoffgeorgein/geoffgeorgein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
