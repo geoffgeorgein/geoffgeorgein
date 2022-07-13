@@ -7,7 +7,7 @@ linkedin:https://www.linkedin.com/in/geoffgeorge45/
 
 Skills and Experience:
 :
-📌🐍 Python 📌📟 C++ 📌📓 Jupyter Notebook 📌🥾 Bootstrap 📌🕸️ HTML 📌🎨 CSS 📌 📌📜 JavaScript
+📌🐍 Python 📌📟 C++ 📌📓 Jupyter Notebook 📌🥾 Bootstrap 📌🕸️ HTML 📌🎨 CSS 📌 📌 JavaScript
 
 
 
