@@ -34,17 +34,10 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<div class="row">
-
-    <div class="col-sm-6">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geoffgeorgein&langs_count=8&show_icons=true&locale=en&layout=compact" alt="geoffgeorgein" /></p>
-    </div>
-
-    <div class="col-sm-6">
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geoffgeorgein&show_icons=true&locale=en" alt="geoffgeorgein" /></p>
-    </div>
-</div>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geoffgeorgein&langs_count=8&show_icons=true&locale=en&layout=compact" alt="geoffgeorgein" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geoffgeorgein&show_icons=true&locale=en" alt="geoffgeorgein" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geoffgeorgein&" alt="geoffgeorgein" /></p>
