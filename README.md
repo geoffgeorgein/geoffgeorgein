@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Geoff George</h1>
 <h3 align="center">An Aspiring Developer from India</h3>
 
+
+ <link rel="stylesheet" href="gits.css">
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
 - 🔭 I’m currently working on **Web Development**
@@ -16,7 +19,7 @@
 - ⚡Fact about me **I like memes**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" id="links">
 <a href="https://twitter.com/geoff_george20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geoff_george20" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/geoffgeorge45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geoffgeorge45" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/orz_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="orz_1" height="30" width="40" /></a>
