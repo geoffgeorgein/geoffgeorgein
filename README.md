@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Any Challenging task**
 
-- 💬 Ask me about **JS,Python,C++,ML**
+- 💬 Ask me about **JS, React, Python, ML**
 
 - 📫 How to reach me **geoffgeorgethommana@gmail.com**
 
