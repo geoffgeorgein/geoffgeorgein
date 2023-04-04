@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
