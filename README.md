@@ -3,13 +3,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
-- 🔭 I’m currently working on **React and TypeScript**
+- 🔭 I’m currently working on **React and Nextjs**
 
 - 🌱 I’m currently building **Full Stack Apps**
 
 - 👯 I’m looking to collaborate on **Any Challenging task**
 
-- 💬 Ask me about **JS,React,Python,ML**
+- 💬 Ask me about **JS,React or ML**
 
 - 📫 How to reach me **geoffgeorgethommana@gmail.com**
 
