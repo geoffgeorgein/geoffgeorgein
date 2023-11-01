@@ -14,7 +14,7 @@
 - 📫 How to reach me **geoffgeorgethommana@gmail.com**
 
 - ⚡Fact about me **I like memes**
--  https://geoffgeorge.vercel.app/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
