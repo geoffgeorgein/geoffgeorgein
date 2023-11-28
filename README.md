@@ -38,4 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geoffgeorgein&show_icons=true&locale=en" alt="geoffgeorgein" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geoffgeorgein&" alt="geoffgeorgein" /></p>
-<img alt="Static Badge" src="https://img.shields.io/badge/build-1.2m-brightgreen?label=lines%20of%20code">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-1.2m-brightgreen?label=lines%20of%20code%20written">
+
