@@ -38,4 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geoffgeorgein&show_icons=true&locale=en" alt="geoffgeorgein" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geoffgeorgein&" alt="geoffgeorgein" /></p>
-![Lines of Codes](https://img.shields.io/badge/Lines%20of%20code%20written-55,968-blue)
+<img alt="Static Badge" src="https://img.shields.io/badge/build-1.2m-brightgreen?label=lines%20of%20code">
