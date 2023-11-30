@@ -35,7 +35,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoffgeorgein&theme=vue&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="geoffgeorgein" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geoffgeorgein&show_icons=true&locale=en" alt="geoffgeorgein" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geoffgeorgein&theme=vue&hide_border=false&include_all_commits=true&count_private=false" alt="geoffgeorgein" /></p>
 
 
 
