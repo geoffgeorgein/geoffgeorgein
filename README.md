@@ -40,9 +40,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geoffgeorgein&" alt="geoffgeorgein" /></p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=geoffgeorgein&theme=vue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geoffgeorgein&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=geoffgeorgein&theme=vue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 <img alt="Static Badge" src="https://img.shields.io/badge/build-1.2m-brightgreen?label=lines%20of%20code%20written">
 
