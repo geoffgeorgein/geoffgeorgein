@@ -37,9 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geoffgeorgein&show_icons=true&locale=en" alt="geoffgeorgein" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geoffgeorgein&" alt="geoffgeorgein" /></p>
 
-# 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geoffgeorgein&theme=vue&hide_border=false)<br/>
 
