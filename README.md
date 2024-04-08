@@ -38,7 +38,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoffgeorgein&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="geoffgeorgein" /></p>
 
 
-
+<p>
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp Stats</b></summary>
   <br/>
@@ -48,6 +48,7 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geoffgeorgein&theme=vue&hide_border=false&include_all_commits=true&count_private=true" alt="geoffgeorgein" /></p>
 
 </details>
+</p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geoffgeorgein&theme=vue&hide_border=false)<br/>
 
