@@ -35,7 +35,16 @@
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="40" height="40"/> </a>
 </p>
 
+<details>
+  <summary><b>📈&nbsp;Languages</b></summary>
+  <br/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoffgeorgein&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="geoffgeorgein" /></p>
+  
+
+</details>
+
+
 
 
 <p>
