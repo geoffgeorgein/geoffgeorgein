@@ -37,7 +37,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoffgeorgein&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="geoffgeorgein" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geoffgeorgein&theme=vue&hide_border=false&include_all_commits=true&count_private=true" alt="geoffgeorgein" /></p>
+
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp Stats</b></summary>
@@ -45,6 +45,7 @@
   <a href='https://profile.codersrank.io/user/geoffgeorgein/'>
 <!--   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
   </a> -->
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geoffgeorgein&theme=vue&hide_border=false&include_all_commits=true&count_private=true" alt="geoffgeorgein" /></p>
 
 </details>
 
