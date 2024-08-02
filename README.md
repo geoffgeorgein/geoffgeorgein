@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
-- 🔭 I’m currently working on **C#**
+- 🔭 I’m currently exploring  **Backend Development**
 
 - 🌱 I’m currently building **Full Stack Apps**
 
