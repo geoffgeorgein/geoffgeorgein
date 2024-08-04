@@ -39,7 +39,7 @@
   <summary><b>📈&nbsp;Languages</b></summary>
   <br/>
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoffgeorgein&langs_count=10&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=demo" alt="geoffgeorgein" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoffgeorgein&langs_count=10&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=donut" alt="geoffgeorgein" /></p>
   
 
 
